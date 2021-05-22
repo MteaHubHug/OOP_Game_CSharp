@@ -6,10 +6,10 @@ In second level, witch is sitting on top and she is throwing poisoned apples. Dr
 When he collets all the diamonds, he can see new tower. Then he just needs to get to the magic tower and celebrate victory.
 
 # MOVING: 
-<- left 
--> right
+<- left ;
+-> right ;
 space - jump
 
 # EFFECTS : 
--Moving platforms
+-Moving platforms; 
 -little stars falling out of dragon when he jumps :) 
